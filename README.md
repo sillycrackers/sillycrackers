@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sillycrackers
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#/.NET
+- 👀 I’m interested in C#, C, Microcontrollers
+- 🌱 I’m currently learning Tiva C Series Microcontroller Programming
 - 📫 How to reach me @ErikSkyler on Instagram
 
 <!---
