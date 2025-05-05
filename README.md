@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sillycrackers
-- 👀 I’m interested in C#, C, Python, and Microcontrollers
+- 👀 I’m interested in C#, C, Python, PLCs, and Microcontrollers
 
 <!---
 sillycrackers/sillycrackers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
